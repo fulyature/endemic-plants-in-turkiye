@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/endemic-plants-in-turkiye/static/js/main.4a7193f4.js",
+    "main.css": "/endemic-plants-in-turkiye/static/css/main.e66d71d5.css",
+    "main.js": "/endemic-plants-in-turkiye/static/js/main.b65b46df.js",
     "index.html": "/endemic-plants-in-turkiye/index.html",
-    "main.4a7193f4.js.map": "/endemic-plants-in-turkiye/static/js/main.4a7193f4.js.map"
+    "main.e66d71d5.css.map": "/endemic-plants-in-turkiye/static/css/main.e66d71d5.css.map",
+    "main.b65b46df.js.map": "/endemic-plants-in-turkiye/static/js/main.b65b46df.js.map"
   },
   "entrypoints": [
-    "static/js/main.4a7193f4.js"
+    "static/css/main.e66d71d5.css",
+    "static/js/main.b65b46df.js"
   ]
 }
